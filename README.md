@@ -46,6 +46,10 @@ Passionate about building meaningful digital experiences and solving real-world 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 
+#### 📊 Data Science & Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 #### 💳 Payment & APIs
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
@@ -159,6 +163,7 @@ Passionate about building meaningful digital experiences and solving real-world 
 | **Web** | Symfony, PHP, HTML, CSS, Bootstrap, JavaScript |
 | **Desktop** | JavaFX, Qt, C++ |
 | **Jeu vidéo** | SDL, C, Arduino |
+| **Machine Learning** | Jupyter, Python |
 | **IA & Recommandation** | OpenAI, Gemini, systèmes de recommandation |
 | **Paiement** | Stripe |
 | **Automatisation** | Cron jobs, tâches planifiées |
