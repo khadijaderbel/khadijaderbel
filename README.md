@@ -28,8 +28,9 @@ Passionate about building meaningful digital experiences and solving real-world 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### 🌐 Frontend & Styling
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -68,7 +69,7 @@ Passionate about building meaningful digital experiences and solving real-world 
 
 | Plateforme | Technologies |
 |------------|--------------|
-| **Web** | Symfony, PHP, Stripe, IA (recommandation) |
+| **Web** | Symfony, PHP, Bootstrap, Stripe, IA (recommandation) |
 | **Desktop** | Java, JavaFX |
 
 | Module | Fonctionnalités |
@@ -79,6 +80,7 @@ Passionate about building meaningful digital experiences and solving real-world 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
@@ -108,26 +110,35 @@ Passionate about building meaningful digital experiences and solving real-world 
 
 | Plateforme | Technologies |
 |------------|--------------|
-| **Web** | HTML, CSS, JavaScript, PHP |
+| **Web** | HTML, CSS, Bootstrap, JavaScript, PHP |
 
 | Module | Fonctionnalités |
 |--------|-----------------|
 | **Gestion des réclamations** (ma tâche) | 📊 **Statistiques** détaillées<br>🔍 **Tri et recherche** avancés<br>📈 Visualisation des données |
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
 
-## 🎮 Projet Spécial : Jeu vidéo avec SDL
-**Développement d'un jeu en C++ avec SDL**
+## 🎮 Projet Spécial : Jeu SDL + Manette Arduino
+**Développement d'un jeu en C avec manette personnalisée**
 
-> Projet collaboratif : développement d'un **jeu vidéo** en utilisant **SDL (Simple DirectMedia Layer)**. Une autre équipe a conçu la **manette Arduino** pour contrôler ce jeu.
+> Projet collaboratif unique mêlant **software et hardware** :
+> - **Jeu vidéo** développé en **C avec SDL**
+> - **Manette de jeu personnalisée** conçue avec **Arduino** pour contrôler le jeu
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Composant | Technologies |
+|-----------|--------------|
+| **Jeu** | C, SDL |
+| **Manette** | Arduino (C++) |
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL-003B6F?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
@@ -145,15 +156,15 @@ Passionate about building meaningful digital experiences and solving real-world 
 
 | Domaine | Technologies |
 |---------|--------------|
-| **Web** | Symfony, PHP, HTML/CSS/JS |
+| **Web** | Symfony, PHP, HTML, CSS, Bootstrap, JavaScript |
 | **Desktop** | JavaFX, Qt, C++ |
-| **Jeu vidéo** | SDL, C++ |
+| **Jeu vidéo** | SDL, C, Arduino |
 | **IA & Recommandation** | OpenAI, Gemini, systèmes de recommandation |
 | **Paiement** | Stripe |
 | **Automatisation** | Cron jobs, tâches planifiées |
 | **Interaction vocale** | Web Speech API / Speech Recognition |
 | **QR Code** | Génération et scan |
-| **Embedded** | Arduino (LCD, 7 segments, buzzer, boutons) |
+| **Embedded** | Arduino (LCD, 7 segments, buzzer, boutons, manette) |
 
 ---
 
