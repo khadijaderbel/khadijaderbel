@@ -33,9 +33,13 @@ Passionate about building meaningful digital experiences and solving real-world 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ Backend & Frameworks
+#### ⚙️ Backend & Desktop Frameworks
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+#### 🎮 Game Development
+![SDL](https://img.shields.io/badge/SDL-003B6F?style=for-the-badge&logo=c&logoColor=white)
 
 #### 🤖 AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -62,25 +66,38 @@ Passionate about building meaningful digital experiences and solving real-world 
 ## 🏆 HORIZIA (PIDEV)
 **Agence de voyage - Application Web & Desktop**
 
+| Plateforme | Technologies |
+|------------|--------------|
+| **Web** | Symfony, PHP, Stripe, IA (recommandation) |
+| **Desktop** | Java, JavaFX |
+
 | Module | Fonctionnalités |
 |--------|-----------------|
 | **Gestion des logements** (ma tâche) | 🤖 **Recommandation IA** personnalisée selon le profil utilisateur<br>💳 **Paiement Stripe** intégré<br>🔍 **Recherche et tri** avancés<br>🎤 **Saisie vocale** des formulaires de logement<br>⏰ **Cron jobs** : annulation auto après 24h si paiement non effectué<br>✅ Statut "expiré" / "terminé" selon date |
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
 ## ⚽ PROLIGA
-**Gestion de matchs de football - Système embarqué**
+**Gestion de matchs de football - Application Desktop & Système embarqué**
+
+| Plateforme | Technologies |
+|------------|--------------|
+| **Desktop** | C++, Qt |
+| **Embedded** | Arduino (C++) |
 
 | Module | Fonctionnalités |
 |--------|-----------------|
-| **Gestion des équipes** (ma tâche) | 🎤 **Saisie vocale** des formulaires d'ajout d'équipes<br>📱 **Génération de QR code** pour les équipes<br>📊 **Statistiques** en temps réel<br>📄 **Génération de contrats** avec IA<br>🖥️ **Afficheur 7 segments** pour les buts<br>🖥️ **Écran LCD** + **Buzzer** |
+| **Gestion des équipes** (ma tâche) | 🎤 **Saisie vocale** des formulaires d'ajout d'équipes<br>📱 **Génération de QR code** pour les équipes<br>📊 **Statistiques** en temps réel<br>📄 **Génération de contrats** avec IA<br>🖥️ **Afficheur 7 segments** pour les buts (Arduino)<br>🖥️ **Écran LCD** + **Buzzer** (Arduino) |
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
 
@@ -88,6 +105,10 @@ Passionate about building meaningful digital experiences and solving real-world 
 
 ## 🌾 AGRICLICK
 **Plateforme agricole - Application Web**
+
+| Plateforme | Technologies |
+|------------|--------------|
+| **Web** | HTML, CSS, JavaScript, PHP |
 
 | Module | Fonctionnalités |
 |--------|-----------------|
@@ -100,13 +121,13 @@ Passionate about building meaningful digital experiences and solving real-world 
 
 ---
 
-## 🎮 Projet Spécial : Manette de Jeu Vidéo
-**Conception hardware d'une manette personnalisée**
+## 🎮 Projet Spécial : Jeu vidéo avec SDL
+**Développement d'un jeu en C++ avec SDL**
 
-> Projet collaboratif : implémentation d'une **manette de jeu vidéo** avec Arduino pour contrôler un jeu développé par une autre équipe.
+> Projet collaboratif : développement d'un **jeu vidéo** en utilisant **SDL (Simple DirectMedia Layer)**. Une autre équipe a conçu la **manette Arduino** pour contrôler ce jeu.
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SDL](https://img.shields.io/badge/SDL-003B6F?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -124,12 +145,15 @@ Passionate about building meaningful digital experiences and solving real-world 
 
 | Domaine | Technologies |
 |---------|--------------|
+| **Web** | Symfony, PHP, HTML/CSS/JS |
+| **Desktop** | JavaFX, Qt, C++ |
+| **Jeu vidéo** | SDL, C++ |
 | **IA & Recommandation** | OpenAI, Gemini, systèmes de recommandation |
 | **Paiement** | Stripe |
 | **Automatisation** | Cron jobs, tâches planifiées |
 | **Interaction vocale** | Web Speech API / Speech Recognition |
 | **QR Code** | Génération et scan |
-| **Hardware** | Arduino (LCD, 7 segments, buzzer, boutons) |
+| **Embedded** | Arduino (LCD, 7 segments, buzzer, boutons) |
 
 ---
 
