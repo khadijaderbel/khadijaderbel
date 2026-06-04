@@ -27,58 +27,109 @@ Passionate about building meaningful digital experiences and solving real-world 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### 🌐 Frontend Development
+#### 🌐 Frontend & Styling
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### ⚙️ Backend & Frameworks
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-#### 📊 Data Science & Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+#### 🤖 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+
+#### 💳 Payment & APIs
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
 #### 🛠️ Embedded & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 
-#### 🛠️ Version Control & OS
+#### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-2B5C8F?style=for-the-badge&logo=clockify&logoColor=white)
 
 ---
 
 ### 📂 Mes Projets
 
-| 🚀 Projet | 🎯 Description | 🔧 Technologies |
-|-----------|----------------|-----------------|
-| **PROLIGA** | Application de gestion de matchs de football avec **système embarqué** : afficheur 7 segments pour les buts, écran LCD, buzzer | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **Horizia** | Projet PIDEV - Application web full stack | ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **AGRICLICK** | Projet Web - Plateforme agricole | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **🎮 Manette de Jeu Vidéo** | Conception et implémentation d'une **manette de jeu personnalisée** avec Arduino (projet collaboratif avec une autre équipe) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+---
+
+## 🏆 HORIZIA (PIDEV)
+**Agence de voyage - Application Web & Desktop**
+
+| Module | Fonctionnalités |
+|--------|-----------------|
+| **Gestion des logements** (ma tâche) | 🤖 **Recommandation IA** personnalisée selon le profil utilisateur<br>💳 **Paiement Stripe** intégré<br>🔍 **Recherche et tri** avancés<br>🎤 **Saisie vocale** des formulaires de logement<br>⏰ **Cron jobs** : annulation auto après 24h si paiement non effectué<br>✅ Statut "expiré" / "terminé" selon date |
+
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-### 🔗 Liens vers les projets
+## ⚽ PROLIGA
+**Gestion de matchs de football - Système embarqué**
+
+| Module | Fonctionnalités |
+|--------|-----------------|
+| **Gestion des équipes** (ma tâche) | 🎤 **Saisie vocale** des formulaires d'ajout d'équipes<br>📱 **Génération de QR code** pour les équipes<br>📊 **Statistiques** en temps réel<br>📄 **Génération de contrats** avec IA<br>🖥️ **Afficheur 7 segments** pour les buts<br>🖥️ **Écran LCD** + **Buzzer** |
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
+
+---
+
+## 🌾 AGRICLICK
+**Plateforme agricole - Application Web**
+
+| Module | Fonctionnalités |
+|--------|-----------------|
+| **Gestion des réclamations** (ma tâche) | 📊 **Statistiques** détaillées<br>🔍 **Tri et recherche** avancés<br>📈 Visualisation des données |
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+---
+
+## 🎮 Projet Spécial : Manette de Jeu Vidéo
+**Conception hardware d'une manette personnalisée**
+
+> Projet collaboratif : implémentation d'une **manette de jeu vidéo** avec Arduino pour contrôler un jeu développé par une autre équipe.
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 🔗 Liens des projets
 
 | Projet | Lien |
 |--------|------|
+| **HORIZIA** | [github.com/Esprit-PIDEV-3A29-2526-Horizia](https://github.com/Esprit-PIDEV-3A29-2526-Horizia) |
 | **PROLIGA** | [github.com/ProjetCPP-S2-2A15/projetcpp2a15-proliga](https://github.com/ProjetCPP-S2-2A15/projetcpp2a15-proliga) |
-| **Horizia** | [github.com/Esprit-PIDEV-3A29-2526-Horizia](https://github.com/Esprit-PIDEV-3A29-2526-Horizia) |
 | **AGRICLICK** | [github.com/meniaress/agriclick](https://github.com/meniaress/agriclick) |
-| **Manette de Jeu** | *(lien à ajouter si dispo)* |
 
 ---
 
-### 🏆 Ce que j'apprends actuellement
+### 🏆 Mes Compétences Clés
 
-- 🌱 Deepening my skills in **React** and **Symfony**
-- 🎯 Working on **PIDEV** project (Horizia)
-- 📚 Exploring **FlutterFlow** for cross-platform development
-- 🔧 Embedded systems with **Arduino** (7-segment display, LCD, buzzers, game controller)
+| Domaine | Technologies |
+|---------|--------------|
+| **IA & Recommandation** | OpenAI, Gemini, systèmes de recommandation |
+| **Paiement** | Stripe |
+| **Automatisation** | Cron jobs, tâches planifiées |
+| **Interaction vocale** | Web Speech API / Speech Recognition |
+| **QR Code** | Génération et scan |
+| **Hardware** | Arduino (LCD, 7 segments, buzzer, boutons) |
 
 ---
 
