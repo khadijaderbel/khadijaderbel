@@ -47,13 +47,29 @@ Passionate about building meaningful digital experiences and solving real-world 
 
 ---
 
-### 📂 My Projects
+### 📂 Mes 3 Grands Projets
 
-| 🚀 Project | 🎯 Description |
-|------------|----------------|
-| [**etd**](https://github.com/khadijaderbel/etd) | Web application development project |
-| [**symfony**](https://github.com/khadijaderbel/symfony) | PHP Symfony framework practice |
-| [**java**](https://github.com/khadijaderbel/java) | Java programming exercises & projects |
+| 🚀 Projet | 🎯 Description | 🔧 Technologies |
+|-----------|----------------|-----------------|
+| **ARENA CHAMPS** | Projet C++ (ProjetCPP-S2-2A15) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Horizia** | Projet PIDEV - Organisation Espírito | ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Troisième Projet** *(à préciser)* | Description à venir | ![Technologies]() |
+
+#### 🔗 Liens vers les projets
+
+| Projet | Lien |
+|--------|------|
+| ARENA CHAMPS | 🔒 *Private - Organisation* |
+| Horizia | 🔒 *Private - Organisation* |
+| Troisième Projet | 📌 *(à ajouter)* |
+
+---
+
+### 🏆 Ce que j'apprends actuellement
+
+- 🌱 Deepening my skills in **React** and **Symfony**
+- 🎯 Working on **PIDEV** project (Horizia)
+- 📚 Exploring **FlutterFlow** for cross-platform development
 
 ---
 
